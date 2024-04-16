@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: alanz
+Build-Jdk: 17.0.10
+Implementation-Title: spring-boot-e-payment
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.staxrt.tutorial
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-boot-e-payment
+Created-By: Maven Integration for Eclipse
+
